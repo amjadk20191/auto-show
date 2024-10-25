@@ -1,0 +1,5 @@
+convert-numbers
+django-extensions
+django-filter
+django-cors-headers
+djangorestframework-simplejwt
